@@ -1,4 +1,4 @@
-Tested with Sequitur the following systems:
+Tested with Sequitur the following languages:
 - Balinese
 - Korean
 - Russian
